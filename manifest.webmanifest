@@ -1,21 +1,21 @@
 {
     "name": "LeeDraw",
     "short_name": "LeeDraw",
-    "id": "/leedraw-pages/",
-    "start_url": "/leedraw-pages/",
-    "scope": "/leedraw-pages/",
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone",
     "theme_color": "#1e6f5c",
     "background_color": "#f7f4ee",
     "icons": [
         {
-            "src": "/leedraw-pages/icons/leedraw-app-icon.svg",
+            "src": "/icons/leedraw-app-icon.svg",
             "sizes": "512x512",
             "type": "image/svg+xml",
             "purpose": "any"
         },
         {
-            "src": "/leedraw-pages/icons/leedraw-maskable-icon.svg",
+            "src": "/icons/leedraw-maskable-icon.svg",
             "sizes": "512x512",
             "type": "image/svg+xml",
             "purpose": "maskable"
