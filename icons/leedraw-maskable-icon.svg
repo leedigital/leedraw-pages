@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+    <title>LeeDraw</title>
+    <rect width="512" height="512" fill="#1e6f5c" />
+    <circle cx="256" cy="256" r="152" fill="#f7f4ee" />
+    <circle cx="256" cy="256" r="104" fill="#ffffff" />
+    <path
+        fill="#1e6f5c"
+        d="M193 174h49v134h82v44H193V174Zm145 0h39v39h-39v-39Zm0 62h39v116h-39V236Z"
+    />
+    <circle cx="390" cy="139" r="34" fill="#9a4f16" />
+    <circle cx="130" cy="373" r="34" fill="#9a4f16" />
+</svg>
